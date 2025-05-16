@@ -64,16 +64,6 @@ Here are some of the technologies and tools I work with:
 ---
 
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evenrise01&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Daksh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evenrise01&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-  <br/>
-  </p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
