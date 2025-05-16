@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Daksh 👋</h1>
 <p align="center">
-  <em>[A short, catchy tagline about yourself - e.g., Full-Stack Developer 🚀 | AI Enthusiast 🧠 | Lifelong Learner 📚]</em>
+  <em> A Full-Stack Developer 🚀 | AI Enthusiast 🧠 | Lifelong Learner 📚</em>
 </p>
 
 ---
