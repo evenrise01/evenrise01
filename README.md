@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Daksh 👋</h1>
 <p align="center">
-  <em> A Full-Stack Developer 🚀 | AI Enthusiast 🧠 | Lifelong Learner 📚</em>
+  <em> A Full-Stack Developer 🚀 | AI Enthusiast 🧠 | Product Manager 📚</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Developer and Product Manager based in India . I love building innovative web applications, AI-driven solutions, beautiful user interfaces that solve real-world problems and provide great user experiences.
+I'm a passionate Software Developer and a Product Manager based in India. I love building innovative web applications, AI-driven solutions, beautiful user interfaces that solve real-world problems and provide great user experiences.
 
 * 🌱 I’m currently learning **Advanced Next.js patterns, Advanced animations with GSAP and AI Solutions**.
 * 👯 I’m looking to collaborate on **open-source AI projects, full-stack web apps etc**.
